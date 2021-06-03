@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority for the common-wealth of England the humble petition of John Lilburn Esquire, prisoner in Newgate.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48485</idno><idno type="EEBO-CITATION">8988841</idno>
+  <idno type="VID">42146</idno>
+  <idno type="EEBO-PROQUEST">2264213980</idno>
+  
+            <idno type="STC">Wing L2189</idno>
+            <idno type="STC">ESTC R188445</idno>
+            <idno type="OCLC">08988841</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1289:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority for the common-wealth of England the humble petition of John Lilburn Esquire, prisoner in Newgate.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1653?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, John, 1614?-1657.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42146:1"/>
+            <pb n="1" facs="tcp:42146:1"/>
+            <head>TO THE Supreme Authority, FOR THE Common-wealth OF ENGLAND. <hi>The Humble Petition of</hi> John Lilburn <hi>Esquire, Prisoner in</hi> Newgate.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>SHEWETH,</opener>
+                        <p>
+                           <seg rend="decorInit">T</seg>Hat your Petitioners sufferings have bin so ma<g ref="char:EOLhyphen"/>ny and so extream, both for injustice and cru<g ref="char:EOLhyphen"/>elty, That it astonisheth his Understanding to consider, that amidst a Generation pre<g ref="char:EOLhyphen"/>tending so strongly to piety, righteousness, justice and good Conscience; to deliver the Captive, and to set the oppressed free; It should be his portion nevertheless, to be continually oppressed, and his life and blood thirsted after, and that without any reall cause at all, as through Gods goodness hath hitherto manifestly appeared in his wonderfull deliverances. In so much, that not<g ref="char:EOLhyphen"/>withstanding, the usuall crimes laid to his charge, have been ei<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:42146:2"/> sedition, fellowship or treason; and prosecuted with the greatest violence and craft, that wicked men in power could con<g ref="char:EOLhyphen"/>trive (yea even upon tryall for his life, denying him all the privi<g ref="char:EOLhyphen"/>ledges of the Law, that was never denied before to the greatest of Traytors:) yet through an Almighty over-ruling providence of the Lord, the constant and sure Rock of his salvation, the issue ever as yet, hath been but a clear manifestation of their bloody in<g ref="char:EOLhyphen"/>ceations towards him, and of his innocency and up<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ightness; and that their malice against him, hath not proceeded for a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ff<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ce done in the least by him against the publick, but for in zeal a<g ref="char:EOLhyphen"/>gainst all tyranous practices in whom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er, and his faithfull af<g ref="char:EOLhyphen"/>fections to the liberties of his native and dear Countrey; in the worst of times without any the least st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ggering. And though the trouble he i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> under at present, be as causless and groundless as any of the former; yet hath it a face of danger towards him, as threatning <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s ever, and that not onely in respe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t, the cruel ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ice of his adversaries is still the same; but also in regard o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> error of most mens understandings, swaying them to an over reverenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> e<g ref="char:EOLhyphen"/>steem of Acts of Parliame<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, though never so apparantly unjust in themselves, and contrary to the known and declared trust of the people conferred upon them; and to the known and declared fundamental<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Laws of <hi>England</hi> con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ined and clear<g ref="char:EOLhyphen"/>ly expressed in the Petition of R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, which even to parallel themselves ought to be thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> rule <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>guid, and which in the least they ought not to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>io<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>te <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>neroach upon: yet in times by past, the contrary hath often been seen, whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eby the lives of the most just and godly men have been too fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ly <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ken away in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and by which snare, he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>de <gap reason="illegible" resp="#keyers" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>ces there is an intention now to destroy him, although really without any just ground or shadow in Law or reason. Bat confidently hoping that he is un<g ref="char:EOLhyphen"/>der a supream Authority, that are not his ingaged adversaries (as most of the former were, and who against the sight of nature and reason, made themselves his Judges also) and that cannot be drawn, either to approve, or to be silent or insensible, at the fight of such snares visibly lai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>rap the innocent and upright; or that will suffer his life to be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ngered upon so slight an ac<g ref="char:EOLhyphen"/>compt, as never any in <hi>England,</hi> (yea in the whole world, in any
+<pb n="3" facs="tcp:42146:2"/> place that peofessed common honesty, Law or justice) ever was, he hath thence received incouragement to intreat your serious consideration, of every circumstance inducing the late Parliament to the making of these hasty and inconsiderate resolves, or votes of Parliament, (whereby, by common same and not otherwise, they voted him to pay 7000 <hi>l.</hi> fine, and to go into perpetuall banishment And to be taken as a fellon when ever he should re<g ref="char:EOLhyphen"/>turn,) and to judge impartially, whether any part thereof, or all joyned together, can make a crime, which in the eye of the Law of <hi>England</hi> can just y entitle or denominate any man a fellon, and for which death were a just punishment, The utmost they laid to his charge, being that he should be of Councel with Mr. <hi>Jesiah Primote,</hi> in a Petition that faith, Sir <hi>Arthur Haslerig</hi> had over<g ref="char:EOLhyphen"/>awed the Committee at <hi>Haberdashers</hi> Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, to give a false Iudge<g ref="char:EOLhyphen"/>ment contrary to the plain evidence before them; The drawing of which Petition the said Mr. <hi>Primate</hi> freed your Petitioner from, at the very Bar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> of the Parliament House, and avowed the Petition for his own, as also the printing of it by his own espe<g ref="char:EOLhyphen"/>ciall Order; so that all, that at most that can be laid to your Pe<g ref="char:EOLhyphen"/>titioners charge, about all that business that it may be corjectu<g ref="char:EOLhyphen"/>red, (and no more) he was voted to banishment (for that act upon which as a fellon he is now imprisoned by the Lord Maior of <hi>London,</hi> being made after his departure from <hi>London,</hi> and which he never see, nor heard of in all his life, till he red it in a New Book in <hi>Amsterdam,</hi>) could at most be nothing else, but for his being at councel with his Clyent the said Mr. <hi>Primate,</hi> or for delivering at the Parliament door some of Mr. <hi>Primates</hi> printed Petitions, before the Originall written Copy could be got read in the House; although the do<g ref="char:EOLhyphen"/>ing thereof was th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> onely pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bable means to get the original peti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ion publiquely read in the House, And t be practise of del<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ering Printed Petitions at the Parliament <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oor, before the orig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nal written Copy could be got publiquely read in the Parliament House, was as common and ordinary a thing, as for people to eate when they were hungry; all which had it legally in the least been indeavoured to be prosecuted against your Petitioner, as it never was (the report upon which the Parliament grounded there <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>asly Votes, being not truely but
+<pb n="4" facs="tcp:42146:3"/> partially and falsely made, as by some fitting then in the House, that heard the businesse at the Committee, he hath been certen<g ref="char:EOLhyphen"/>ly informed) or had he been heard in his own defence against any charge before he was Voted against. (as he never was in the lest) yet he humbly conceives it not only falls far short, either of death, or of banishment; or such an unheard of fine as 7000 l. or of the manifold dangers and miseryes, that he and his poor family have been constantly afflicted withall, during the whole time of his being beyond the Seas; as that in all the de<g ref="char:EOLhyphen"/>clared Laws of England there will not the lest shaddow of punishment be found for so being of Councell, and so deli<g ref="char:EOLhyphen"/>vering a Printed Petition, which is the utmost of crimes that can be laid to your Petitioners Charge, or is laid to him, for which it can be immagined the said cruel Votes or Resolves of banish<g ref="char:EOLhyphen"/>ment, &amp;c. past against him, as by the Printed proceedings of the Parliament upon the Petition and appeal of <hi>Josiah Primat</hi> of <hi>London</hi> Leather seller doth appear, a true Copy of which as it is Printed by the Parliaments Printer is here unto annexed.</p>
+                        <p>Upon all which considerations your Petioner humbly intreats that his Life, and good Name, his Wife, his inocent and smal Babes, Parents and relations with the <hi>Liberties,</hi> and <hi>Freedomes</hi> of <hi>ENGLAND,</hi> and the preservation of a good Conscience to your selves may be more preicous in your esteeme, then to be hazarded upon so groundless, yet cruel and bloudy Votes, or any thing depending thereupon, of a most unjust Parliament; And that in tender regard to the preservation of his innocent life and bloud, you will be pleased to declare the said Votes and all things whatsoever depending thereupon, to be null and void, as indeed they are in Law in themselves, to free your Petitioner from his present infamous and burthensome im<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>risonment; to cause Sir <hi>Arthur Haslerig</hi> to restore him his estate, which by force of the foresaid unjust Votes, or something thereupon depending he hath most unjustly, cruelly, and covetously taken away from him, his poor wife, and children; and added it to his vast and hastily got<g ref="char:EOLhyphen"/>ten estate, in these late woful and miser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ble ruining times. Also that you w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll please to order, from first to last, a legal re-hearing of the Cause, which occasioned your Petitioners assisting, in com<g ref="char:EOLhyphen"/>plaint against Sir <hi>Arthur Haslerig,</hi> and the Members of the Com<g ref="char:EOLhyphen"/>mittee
+<pb n="5" facs="tcp:42146:3"/> of Haberdashers Hall, and that his Uncle Mr. <hi>George Lil<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#keyers" extent="5 letters">
+                                 <desc>•••••</desc>
+                              </gap>,</hi> and the other Tenants to Mr. <hi>Primate,</hi> may be put in the same condition and possession of the Colliery of Harroton (being the thing in question) that they were before Sir <hi>Arthur Haslerig</hi> by his will and pleasure, without all shadow of Law or Ordinance of Parliament, by force and violence dispossessed them, that so the said Collery may not by Sir <hi>Arthur Haslerig's</hi> cunning and power<g ref="char:EOLhyphen"/>ful interest be sold for a Delinquents; whereas indeed and in truth it is nothing less, but really and truly is the real proprieties of persons alwayes well-affected to the Commonwealth of Eng<g ref="char:EOLhyphen"/>land; at which hearing, if you please to grant it, he doubts not but to make it evidently to appear that his assisting in the ma<g ref="char:EOLhyphen"/>naging of the said complaints, were not without great compu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sive and just cause, and that Sir <hi>Arthur Haslerig,</hi> and the Members of that Committee, may be left free to the Law to seek for their le<g ref="char:EOLhyphen"/>gal remedy there for any wrong they conceive your Petitioner hath done them, and that he may not be abridged of the like li<g ref="char:EOLhyphen"/>berty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gainst them, And all others whatsoever, that he apprehends hath dealt with him <hi>contrary to Law and Justice. These things he humbly prayeth may be speedily effected, according to the pressing exi<g ref="char:EOLhyphen"/>gency of the occasion, and that you will not be with held from affording him this Justice and this your just protection, through any suggestions touching his turbulency of spirit, which his powerful Adversaries most u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>justly have been alwayes r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ady to cast upon him neither consi<g ref="char:EOLhyphen"/>dering his sufferings nor provocations, sufficient to distract the wisest of men, which never yet transported him unjustly or illegally to violate any m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ns peace or safety. And therefore he doth with confidence in al h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>mility aver, that for this</hi> 20 <hi>years together he never begun a quar<g ref="char:EOLhyphen"/>rel or contest with any man in the world that he can remember, but was alw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>yes forced and compelled for his own preservation, to take up the Buck<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ers of De<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>nce in all contests he hath ever been ingaged in, from the f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rst day of his publike and extraordinary cruel sufferings, to this hour, and yet hath alwayes been an earnest Professor of a just, ra<g ref="char:EOLhyphen"/>tional and moderate accommodation in all his troubles, or contests; which being hitherto constantly refused by his potent Adversaries; the powerfull protection and goodnesse of the Lord</hi> Jehovah, <hi>his own innocency, and his co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>stant adhearing to the Good Old fundamental Laws of</hi> England <hi>the badges of Freedom as they are truly called
+<pb n="6" facs="tcp:42146:4"/> in the late Parliaments Declaration of the</hi> 17 <hi>of</hi> March 1648. <hi>hath almayes hitherto, with Honour and safety, brought him off: and unto those, that commonly accuse him to be a trouble of</hi> England, <hi>he can truly, and uprightly, and with a good and clear conscience a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>swer them as honest</hi> Elisha <hi>did wicked</hi> Ahab; <hi>when he taxed him for a troublar of</hi> Israel, <hi>unto which he answered; I have not trou<g ref="char:EOLhyphen"/>bled</hi> Israel, <hi>but thou and thy Fathers House, in that you have for<g ref="char:EOLhyphen"/>saken the Commandments of the Lord, and thou hast followed</hi> Bi<g ref="char:EOLhyphen"/>alim. <hi>and that you will not be hindred through any suspitions of his com<g ref="char:EOLhyphen"/>pliance with</hi> Charls Stuart, <hi>or his Party <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>a poysonous ingredent that his adversaries have alwayes in readinesse to cast into his Dish, though they know it as false as Hell, and beleive not themselves in this there machavilian report) your Petitioner p ofession as in the presence of the Lord his preserver, before whom he knows he must render a strict accompt of the secretest and closest of his actions that he returned in<g ref="char:EOLhyphen"/>to his native Country with no worse resolution to the true and Vni<g ref="char:EOLhyphen"/>versal wellfair thereof. then he engaged at the first in the late Parlia<g ref="char:EOLhyphen"/>ments quarrel against the late King; and with a serious resolution to live privately and civilly upon his own, without intermedling in any other affairs; and that what liberty soever he hath taken of dis<g ref="char:EOLhyphen"/>couse, or company with any opposite party beyond the Seas, yet he never in the least stagered in his fidelity to the cause of liberty and freedom that he first engaged in; and would chuse rather to dye then to do any thing so directly opposite to his conscience and understanding, and the true wellfaire of the Land of his nativity.</hi>
+                        </p>
+                        <p>
+                           <hi>Your petitioner cannot but believe the impulsions of God are strong within and amongst you, earnestly and vehemently pressing you to do in this case to your Petitioner, as you would be done unto in the like condition. Oh dear Christians quence not that good Spirit; and his Deliverance cannot be far of; and honor and indear your selves at the first beginning in the eyes of the honest people of</hi> England, <hi>as the late Parliament or house of Commons did at their first begining in</hi> Anno 1640. <hi>who in the very first days of their fitting made <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> earnest, zealous hearty work to fetch home the exciled, and to <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                              <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r the Captive, and set the oppressed free, which in the day of <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> distresse in the late wars with the King was as a sure and un<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>erable sheild and buckler unto them.</hi>
+                        </p>
+                        <closer>
+                           <dateline>Newgate <date>
+                                 <hi>Tusday</hi> 12 <hi>of</hi> July, 1653.</date>
+                           </dateline>
+                           <signed>And Your Petitioner shall ever pray, &amp;c. JOHN LILBURN.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="7" facs="tcp:42146:4"/>
+            <p>IN the fourth place, I must declare to the Reader, that very good Intelligence tels me, that yester-night very late, when the Grand jury was almost j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yded and tired by the most illegal, and unjust tyrannical Combination of the said <hi>John Fowke,</hi> Lord M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jor of <hi>London; William Steal.</hi> Recorder of <hi>London,</hi> and the Marshall of the Ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, (with his Under slaves,) and <hi>Edmond Pri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaux,</hi> Attour<g ref="char:EOLhyphen"/>ney General, and his blo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d thirsty Agents, have most illegally for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the Grand or first Jury to finde the B ll of I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dictment, u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on the foresa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shment, against the said <hi>John Lilburne</hi> Esq; uyon the most false and untrue <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aths of the said M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>shall of <hi>Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and some of his seruants, Under catch poles or slaves, which were to th s effect, <hi>viz.</hi> That <hi>John Lilburne,</hi> the fore men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ioned Petitioner, did confess to the said Lord Major of <hi>London</hi> at his late committing, that he was that <hi>Joh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lilburn</hi> meant in the said unjust Act of B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nishment; which is the most falsest thing in the World, as Mr. <hi>Justice Moore,</hi> Mr. <hi>Thomas Prince,</hi> and divers other honest persons, then present at all the piscourse with the Lord Major and suffi iently able to justifie it: the said <hi>John Lilburne</hi> in all his dis<g ref="char:EOLhyphen"/>courses, disavowing, that he is not in the least the man mentioned in the said Act.</p>
+            <p>And further, the Reader is to know, that this present <hi>Tursday</hi> morning the said Marshall, being questioned by some of Mr. <hi>Lil<g ref="char:EOLhyphen"/>burnes</hi> friends, for his Roguery and false swearing against him, did voluntarily say, that he was forced, compel'd, or threatened there<g ref="char:EOLhyphen"/>unto; therefore, good Reader, judge seriously of the most blood-thirsty malice of the above-said Conspirators, and their chiefest set<g ref="char:EOLhyphen"/>ters on against poor Master <hi>Lilburns</hi> life, who, at the most, if he were the man meant in the said Act of Banishment, it is but a poor English Fellou, who may expect in reason more favour then a Scotch Traitor: and what favour one of them hath had, thou maiest perceive by reading these true lines following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="examination">
+                        <opener>
+                           <dateline>Middx. ss.</dateline>
+                        </opener>
+                        <head>The Examination of <hi>James Sybbald,</hi> Doctor of Divinity, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> this 6th. day of <hi>January,</hi> in the year of our Lord God <hi>1</hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, befor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <hi>Richard Powell,</hi> and <hi>Josias Berners</hi> Esq; two <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>f the Justices of Peace for the County of <hi>Middlesex.</hi>
+                        </head>
+                        <p>COnfesseth himself to be by Nation a <hi>Scot,</hi> and to be born in <hi>Benhelme,</hi> in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ounty of <hi>Mearnes</hi> in <hi>Scotland,</hi> about the year of our Lord God 1600.</p>
+                        <pb n="8" facs="tcp:42146:5"/>
+                        <p>Confesseth, that he hath no license to be in <hi>England;</hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t his constant residence since he lately returned out of <hi>Holland,</hi> it in Clerk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nwell, <hi>Middlesex,</hi> where he hath been Preacher of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>spel for about twenty years past.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="writ">
+                        <opener>
+                           <dateline>Middx ss.</dateline>
+                        </opener>
+                        <head>To the Keeper of New-Prison at Clerkenwell, or his Deputy.</head>
+                        <p>WE send you herewith the body of <hi>James Sybbold,</hi> Doctor in Divinity, being a <hi>Scot,</hi> and remaining in <hi>England</hi> with<g ref="char:EOLhyphen"/>out license, contrary to an Act of Parliament, <hi>August</hi> 2. <hi>Anno</hi> 1651 by wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ch Act the said offence is made Treason; you shall there<g ref="char:EOLhyphen"/>fore detern him in your safe Custody, untill by due course of Law he shall be delivered. And this shall be your Warrant;</p>
+                        <closer>
+                           <dateline>Dated <date>this sixth of <hi>January,</hi> 1651.</date>
+                           </dateline>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                          <desc>•••</desc>
+                                       </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>erners.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Powell.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="writ">
+                        <head>Monday <hi>29th. of</hi> March, <hi>1652.</hi> At the Council of State of <hi>White-hall.</hi>
+                        </head>
+                        <opener>Ordered,</opener>
+                        <p>THat Doctor <hi>Sibbold</hi> be bailed, he entring into five hundred pound bond for himself, and two Sureties, each of them two hundred and fifty pounds; the Condition to be, That he shall be responsable to Justice, and that in the mean time he shall act no<g ref="char:EOLhyphen"/>thing prejudiciall to the Common-wealth, and the Keeper of the New-prison is to bring the said Doctor <hi>Sibbold</hi> with his Sureties forthwith to the Secretary of the Council of State, there to give security, as aforesaid, and this shall be his Warrant and sufficient discharge.</p>
+                        <closer>
+                           <signed>
+                              <hi>Signed in the Name, and by Order of the Council of State, appointed by Authority of Parliament:</hi> John Lisle, <hi>President.</hi>
+                           </signed>
+                        </closer>
+                        <trailer>To Mr. <hi>Dodson,</hi> Keeper of the New prison.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Sir <hi>Arthur Haslerick</hi> procured the Doctors Inlargement, and was the onely man in it to follow it.</p>
+            <p>Now the great God of Heaven and Earth judge impartially be<g ref="char:EOLhyphen"/>twixt Mr. <hi>Lilburne,</hi> and his great and blood-thirsty persecutor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
